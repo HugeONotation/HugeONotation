@@ -6,6 +6,12 @@ I originally started programming due to a more general interest in computer grap
 
 **[My Programing Blog](https://hugeonotation.github.io/pblog.html)** - Write ups on SIMD vectorization
 
+<br>
+
+CppCon 2024 Volunteer
+
+<br>
+
 <p>
   <img alt="c" src="https://img.shields.io/badge/-C-A8B9CC?style=flat" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-00599C?style=flat" />
@@ -25,5 +31,3 @@ I originally started programming due to a more general interest in computer grap
 <p>
   <img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat" />
 </p>
-
-I volunteered at CppCon 2024
